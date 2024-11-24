@@ -34,6 +34,7 @@
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Huggingface" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="Git" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" alt="Kubernetes" width="50" height="50"/>
+  <img src=" https://spark.apache.org/images/spark-logo-trademark.png" alt="Spark" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kafka.svg" alt="Kafka" width="50" height="50"/>
  </p>
 

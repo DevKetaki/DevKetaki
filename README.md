@@ -38,6 +38,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="Azure" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" alt="GCP" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" alt="PostgreSQL" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="50" height="50"/>
 </p>
 

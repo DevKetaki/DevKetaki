@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Ketaki Patil 🚀
 
-![Profile Banner](assets/profile-banner.png)
+![Profile Banner](https://www.canva.com/design/DAGXax5neEo/CUSGoBA6o2NotH336bPHGw/view?utm_content=DAGXax5neEo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## About Me 👩‍💻
 
@@ -58,20 +58,7 @@
 
 ## 🔥 GitHub Stats
 
-![Ketaki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevKetaki&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketaki-Patil&layout=compact&theme=radical)
-
----
-
-## 📈 Experience
-
-### Machine Learning Engineer at Phelix IT Solutions
-- Built and deployed NLP models, enhancing data mining efficiency by **18%**.
-- Automated CI/CD pipelines with Kubernetes, reducing deployment time significantly.
-
-### Software Developer at Tata Consultancy Services
-- Developed demand forecasting models, improving inventory accuracy by **20%**.
-- Optimized supply chain processes, lowering costs by **30%**.
+![Ketaki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevKetaki&show_icons=true&hide=stars&theme=dracula)
 
 ---
 

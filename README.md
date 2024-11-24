@@ -16,6 +16,7 @@
 ### Programming & Scripting
 <p>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="Python" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" alt="Python" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/R-Dark.svg" alt="R" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="50" height="50"/>

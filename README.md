@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Ketaki Patil 🚀
 
-![Profile Banner](https://www.canva.com/design/DAGXax5neEo/CUSGoBA6o2NotH336bPHGw/view?utm_content=DAGXax5neEo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![Profile Banner](https://github.com/DevKetaki/DevKetaki/blob/main/Profile_Banner.png)
 
 ## About Me 👩‍💻
 

@@ -36,6 +36,7 @@
 
 ### Cloud & Databases
 <p>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="Azure" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="Azure" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GCP-Dark.svg" alt="GCP" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Light.svg" alt="PostgreSQL" width="50" height="50"/>

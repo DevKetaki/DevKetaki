@@ -58,7 +58,7 @@
 
 ## 🔥 GitHub Stats
 
-![Ketaki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ketaki-Patil&show_icons=true&theme=radical)
+![Ketaki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevKetaki&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketaki-Patil&layout=compact&theme=radical)
 
 ---
